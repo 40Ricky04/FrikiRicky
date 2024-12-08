@@ -1,0 +1,258 @@
+body {
+    background-color: rgb(39, 38, 38);
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+.ImagenT {
+    background: url(controller-2618897_1280.jpg) no-repeat center;
+    height: 60vh !important;
+    background-size: cover;
+    position: relative;
+    bottom: 150px;
+}
+.TiendaFriki {
+    position: relative;
+    bottom: 450px;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 25px;
+}
+.FrikiRicky {
+    position: relative;
+    bottom: 450px;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 40px;
+}
+.Productos {
+    width: 230px; height: 40px;
+    border: 5px solid, white;
+    color: white;
+    position: relative;
+    bottom: 250px;
+    left: 805px;
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 50px;
+    padding: 5px;
+
+}
+.Texto1 {
+    width: 600px; height: 38px;
+    color: white;
+    position: relative;
+    bottom: 250px;
+    left: 615px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 10px;
+    border-radius: 50px;
+}
+.Tendencias {
+    position: relative;
+    bottom:200px;
+    left: 710px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 10px;
+    border-radius: 50px;
+    width: 400px; height: 38px;
+    border: 5px solid, white;
+}
+.PC {
+    width: 250px; height: 300px;
+    background-color: rgb(110, 0, 114);
+    color: white;
+    border-radius: 50px;
+    position: relative;
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+    padding: 5px;
+    left: 495px;
+    bottom: 200px;
+
+}
+.Playstation {
+    width: 250px; height: 300px;
+    background-color: rgb(110, 0, 114);
+    color: white;
+    border-radius: 50px;
+    position: relative;
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+    padding: 5px;
+    left: 795px;
+    bottom: 695px;
+}
+.Nintendo {
+    width: 250px; height: 300px;
+    background-color: rgb(110, 0, 114);
+    color: white;
+    border-radius: 50px;
+    position: relative;
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+    padding: 5px;
+    left: 1095px;
+    bottom: 1192px;
+}
+.PCtendencias {
+    color: white;
+    position: relative;
+    right: 310px;
+    bottom: 450px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+}
+.PlayTendencias {
+    color: white;
+    position: relative;
+    bottom: 950px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    right: 12px;
+}
+.NintendoTendencias {
+    color: white;
+    position: relative;
+    bottom: 1450px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    left: 290px;
+}
+.Cuadradofinal {
+    background-color: rgb(29, 28, 28);
+    height: 30vh !important;
+    background-size: cover;
+    position: relative;
+    bottom: 1200px;
+    width: 100%;
+  height: 100vh;
+  background: 
+    
+    radial-gradient(
+      circle at 100% 50%,
+      #ff00cc 0% 2%,
+      #00ffcc 3% 5%,
+      transparent 6%
+    ),
+    
+      radial-gradient(
+        circle at 0% 50%,
+        #ff00cc 0% 2%,
+        #00ffcc 3% 5%,
+        transparent 6%
+      ),
+    
+      radial-gradient(ellipse at 50% 0%, #3300ff 0% 3%, transparent 4%) 10px
+      10px,
+    
+      radial-gradient(
+        circle at 50% 50%,
+        #00ffcc 0% 1%,
+        #ff00cc 2% 3%,
+        #3300ff 4% 5%,
+        transparent 6%
+      )
+      20px 20px,
+    
+      repeating-linear-gradient(
+        45deg,
+        #1a1a1a,
+        #1a1a1a 10px,
+        #242424 10px,
+        #242424 20px
+      );
+  background-size:
+    50px 50px,
+    50px 50px,
+    40px 40px,
+    60px 60px,
+    100% 100%;
+  animation: shift 15s linear infinite;
+}
+
+@keyframes shift {
+  0% {
+    background-position:
+      0 0,
+      0 0,
+      10px 10px,
+      20px 20px,
+      0 0;
+  }
+  100% {
+    background-position:
+      50px 50px,
+      -50px -50px,
+      60px 60px,
+      80px 80px,
+      0 0;
+  }
+}
+
+.Nosotros {
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 60px;
+    position: relative;
+    bottom: 1500px;
+}
+.Correo {
+    width: 300px; height: 20px;
+    background-color: rgb(255, 255, 255);
+    color: rgb(11, 32, 153);
+    border-radius: 50px;
+    position: relative;
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+    padding: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    position: relative;
+    bottom: 1469px;
+    left: 600px;
+    border: 5px solid, rgb(90, 9, 90);
+}
+.Link {
+    width: 300px; height: 20px;
+    background-color: rgb(255, 255, 255);
+    color: white;
+    border-radius: 50px;
+    position: relative;
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+    padding: 10px;
+    font-size: 20px;
+    position: relative;
+    left: 950px;
+    bottom: 1518px;
+    border: 5px solid, rgb(90, 9, 90);
+}
+.Nav1 {
+  width: 200px; height: 35px;
+  background-color: rgb(250, 250, 250);
+  position: relative;
+  top: 50px;
+  color: rgb(90, 9, 90);
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  border: 5px solid, rgb(90, 9, 90);
+  left: 700px;
+}
+.Nav2 {
+  width: 200px; height: 35px;
+  background-color: rgb(250, 250, 250);
+  position: relative;
+  top: 5px;
+  color: rgb(90, 9, 90);
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  border: 5px solid, rgb(90, 9, 90);
+  left: 950px;
+}
+details {
+  position: relative;
+  bottom: 1400px;
+  color: white;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 30px;
+}
